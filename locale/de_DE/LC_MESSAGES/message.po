@@ -1,0 +1,143 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Chalet le bouquetin\n"
+"POT-Creation-Date: 2015-09-08 18:07+0100\n"
+"PO-Revision-Date: 2015-09-08 18:07+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ..\\..\\..\\\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: index.php:4
+msgid "Welkom - Chalet le Bouquetin"
+msgstr "Willkommen - Chalet le Bouquetin"
+
+#: index.php:34
+msgid "Chalet"
+msgstr "Chalet"
+
+#: index.php:35
+msgid "Ski gebied"
+msgstr "Skigebiet"
+
+#: index.php:36
+msgid "Beschikbaarheid"
+msgstr "Verfügbarkeit"
+
+#: index.php:37
+msgid "Prijzen"
+msgstr "Preis"
+
+#: index.php:38
+msgid "Online boeken"
+msgstr "Online Buchung"
+
+#: index.php:39
+msgid "Foto's"
+msgstr "Fotos"
+
+#: index.php:40
+msgid "Contact"
+msgstr "Kontakt"
+
+#: index.php:47
+msgid "Registreer"
+msgstr "Anmelden"
+
+#: index.php:48
+msgid "Login"
+msgstr "Einloggen"
+
+#: index.php:89
+msgid "Luxe chalet"
+msgstr "Luxus-Chalet"
+
+#: index.php:91
+msgid "120 m²"
+msgstr "120 m²"
+
+#: index.php:93
+msgid "11 personen"
+msgstr "11 personen"
+
+#: index.php:95
+msgid "4 slaapkamers"
+msgstr "4 Schlafzimmer"
+
+#: index.php:97
+msgid "3 x 2 bedden, 1 x 3 bedden en een stapelbed"
+msgstr "3 x 2 Bett, 1 x 3 Betten und ein Etagenbett"
+
+#: index.php:99
+msgid "3 badkamers"
+msgstr "3 Schlafzimmer"
+
+#: index.php:101
+msgid "2 garages"
+msgstr "2 Garagen"
+
+#: index.php:103
+msgid "50 meter van skilift"
+msgstr "50 Meter vom Skilift"
+
+#: index.php:108
+msgid ""
+"Chalet le Bouquetin is een comfortabel, stijlvol ingericht chalet gelegen op "
+"de zuidwest helling net boven de dorpskern van Tignes les Brévières, met een "
+"prachtig uitzicht op de omliggende bergen en het meer van Brévières. \n"
+"\t\t\tTignes-les-Brévières is een klein traditioneel savoye dorp, het "
+"gezellige centrum ligt op ca.200 meter afstand. \n"
+"\t\t\tHier vindt u authentieke Savoyaardse restaurants, lokale cafés, een "
+"Nederlandse bar( met gratis WIFI internet), een skischool, pinautomaten, "
+"skiverhuur, een postkantoor(met gratis WIFI internet) en grote terrassen met "
+"uitzicht op de oefenweide en de piste. \n"
+"\t\t\tVerder vindt u er alles wat u van een onvergetelijke vakantie mag "
+"verwachten."
+msgstr ""
+"Chalet le Bouquetin ist eine komfortable, stilvolle Landhaus am "
+"südwestlichen Hang oberhalb des Dorfes von Tignes les Brévières gelegen, mit "
+"herrlichem Blick auf die umliegenden Berge und den Lago Brevieres. Tignes-"
+"les-Brevieres Savoy ist ein kleines traditionelles Dorf ist das Zentrum etwa "
+"200 Meter entfernt. Hier finden Sie authentische savoyische Restaurants, "
+"Pubs, einem niederländischen bar (mit kostenfreiem WLAN), eine Skischule, "
+"Geldautomaten, Skiverleih, ein Postamt (mit kostenlosem WiFi-Internetzugang) "
+"und eine große Terrasse mit Blick auf den Übungsplatz und die Steigung. Hier "
+"finden Sie auch alles, was Sie von einem unvergesslichen Urlaub erwarten."
+"ChaletAuf 50 Meter von der Hütte le Bouquetin ist der neue Skilift, die "
+"Zugriff auf das Skigebiet von Tignes bietet – Val d’Isere, wie Espace Killy "
+"bekannt. Espace Killy ist eine der größten Ski-und Snowboard Gebieten der "
+"Welt. Das Gebiet liegt Schnee, etwas, das in diesen Tagen keine "
+"Selbstverständlichkeit mehr überall. Durch den Anschluss Tignes und Val "
+"d’Isere diesem Gebiet bietet 300 km präparierte Pisten, 23 grüne, 67 blaue, "
+"40 rote und 29 schwarze Pisten. "
+
+#~ msgid "Welkom Toekomstige vakantieganger! "
+#~ msgstr "Willkommen Zukunft Urlauber !"
+
+#~ msgid "Locatie"
+#~ msgstr "Ort"
+
+#~ msgid "Email"
+#~ msgstr "Emaille"
+
+#~ msgid "Vraag of opmerking"
+#~ msgstr "Bemerkungen und Fragen"
+
+#~ msgid "Verzenden"
+#~ msgstr "senden"
+
+#~ msgid "Welkom"
+#~ msgstr "Wilkommen"
+
+#~ msgid "Kies uw taal"
+#~ msgstr "Set-Übersetzung"
+
+#~ msgid "Welkom op de website"
+#~ msgstr "Willkommen auf der Webseite"

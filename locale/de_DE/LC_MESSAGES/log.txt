@@ -1,0 +1,4 @@
+10/11/15 18:13:34: ./voorwaardenNL.php:25: invalid multibyte sequence
+10/11/15 18:13:34: ./voorwaardenNL.php:25: invalid multibyte sequence
+10/11/15 18:13:34: ./voorwaardenNL.php:26: invalid multibyte sequence
+10/11/15 18:13:34: ./voorwaardenNL.php:26: invalid multibyte sequence

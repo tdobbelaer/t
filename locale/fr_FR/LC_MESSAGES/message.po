@@ -1,0 +1,507 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: chalet le bouquetin\n"
+"POT-Creation-Date: 2015-10-11 18:17+0100\n"
+"PO-Revision-Date: 2015-10-11 18:17+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ..\\..\\..\\\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: checkboeking.php:56 onlineboeken.php:48
+msgid "Aankomstdatum:"
+msgstr "Date d'arrivée:"
+
+#: checkboeking.php:63 onlineboeken.php:56
+msgid "Vertrekdatum:"
+msgstr "Date de départ:"
+
+#: checkboeking.php:70 onlineboeken.php:63
+msgid "Voornaam:"
+msgstr "Prénom:"
+
+#: checkboeking.php:77 onlineboeken.php:70
+msgid "Achternaam:"
+msgstr "Nom:"
+
+#: checkboeking.php:84 onlineboeken.php:77
+msgid "Adres:"
+msgstr "Adresse:"
+
+#: checkboeking.php:91 onlineboeken.php:84
+msgid "Postcode:"
+msgstr "code postal:"
+
+#: checkboeking.php:98 onlineboeken.php:91
+msgid "Woonplaats:"
+msgstr "Ville:"
+
+#: checkboeking.php:105 onlineboeken.php:98
+msgid "Land:"
+msgstr "Pays:"
+
+#: checkboeking.php:112 onlineboeken.php:105
+msgid "Telefoonnummer:"
+msgstr "Numéro de téléphone:"
+
+#: checkboeking.php:119 onlineboeken.php:112
+msgid "Email adres:"
+msgstr "Adresse e-mail:"
+
+#: checkboeking.php:126 onlineboeken.php:119
+msgid "Totaal aantal bezoekers:"
+msgstr "le nombre de visiteurs:"
+
+#: checkboeking.php:133
+msgid "Aantal bezoekers onder 18 jaar:"
+msgstr "Le nombre de visiteurs moins de 18 ans:"
+
+#: checkboeking.php:140
+msgid "Aantal bezoekers onder 13 jaar:"
+msgstr "Le nombre de visiteurs moins de 13 ans:"
+
+#: checkboeking.php:148
+msgid "Boek nu!"
+msgstr "réservez dès maintenant!"
+
+#: checkboeking.php:151
+msgid "Terug"
+msgstr ""
+
+#: home ori.php:7 home.php:220
+msgid "Luxe chalet"
+msgstr "Chalet de luxe"
+
+#: home ori.php:9 home.php:222
+msgid "120 m²"
+msgstr "120 m²"
+
+#: home ori.php:11 home.php:224
+msgid "11 personen"
+msgstr "1 personnes"
+
+#: home ori.php:13 home.php:226
+msgid "4 slaapkamers"
+msgstr "4 chambres"
+
+#: home ori.php:15 home.php:228
+msgid "3 x 2 bedden, 1 x 3 bedden en een stapelbed"
+msgstr "3 x 2 lits, 1 x 3 lits et un lit superposé"
+
+#: home ori.php:17 home.php:230
+msgid "3 badkamers"
+msgstr "3 salles de bains"
+
+#: home ori.php:19 home.php:232
+msgid "2 garages"
+msgstr "2 garages"
+
+#: home ori.php:21 home.php:234
+msgid "50 meter van skilift"
+msgstr "À 50 mètres des remonte-pentes"
+
+#: home ori.php:26 home.php:241
+msgid ""
+"Chalet le Bouquetin is een comfortabel, stijlvol ingericht chalet gelegen op "
+"de zuidwest helling net boven de dorpskern van Tignes les Brévières, met een "
+"prachtig uitzicht op de omliggende bergen en het meer van Brévières. \n"
+"\t\t\tTignes-les-Brévières is een klein traditioneel savoye dorp, het "
+"gezellige centrum ligt op ca.200 meter afstand. \n"
+"\t\t\tHier vindt u authentieke Savoyaardse restaurants, lokale cafés, een "
+"Nederlandse bar( met gratis WIFI internet), een skischool, pinautomaten, "
+"skiverhuur, een postkantoor(met gratis WIFI internet) en grote terrassen met "
+"uitzicht op de oefenweide en de piste. \n"
+"\t\t\tVerder vindt u er alles wat u van een onvergetelijke vakantie mag "
+"verwachten."
+msgstr ""
+"Chalet le Bouquetin est un confortable chalet chic situé sur la pente sud-"
+"ouest juste au-dessus du village de Tignes Les Brévières, avec vue "
+"imprenable sur les montagnes environnantes et le lac Brevieres. Tignes-les-"
+"Brévières Savoy est un petit village traditionnel, le centre est à environ "
+"200 mètres. Ici vous trouverez des restaurants authentiques savoyards, les "
+"pubs locaux, un bar hollandais (avec Internet sans fil gratuit), une école "
+"de ski, les guichets automatiques, location de skis, un bureau de poste "
+"(avec WiFi gratuit à Internet) et de grandes terrasses donnant sur le champ "
+"de pratique et de la pente. Vous trouverez également tout ce que vous "
+"attendez d’un séjour inoubliable.\n"
+"\n"
+"Chalet\n"
+"\n"
+"A 50 mètres du chalet le Bouquetin est le nouveau téléski qui donne accès à "
+"la station de ski de Tignes – Val d’Isère, connu comme l’Espace Killy. "
+"Espace Killy, l’un des plus grands domaines skiables et les zones de "
+"snowboard dans le monde. Tignes est un endroit où vous trouverez tout le "
+"temps de la neige, ce qui n’est pas le cas partout! En reliant Tignes et Val "
+"d’Isère ce domaine offre 300 km de pistes damées, 23 vertes, 67 bleues, 40 "
+"rouges et 29 pistes noires. "
+
+#: home.php:247
+#, fuzzy
+msgid ""
+"Chalet le Bouquetin is een comfortabel, stijlvol ingericht chalet gelegen op "
+"de zuidwest helling net boven de dorpskern van Tignes les Brévières, met een "
+"prachtig uitzicht op de omliggende bergen en het meer van Brévières. Tignes-"
+"les-Brévières is een klein traditioneel savoye dorp, het gezellige centrum "
+"ligt op ca. 200 meter afstand. Hier vindt u authentieke Savoyaardse "
+"restaurants, lokale cafés, een Nederlandse bar( met gratis WIFI internet), "
+"een skischool, pinautomaten, skiverhuur, een postkantoor(met gratis WIFI "
+"internet) en grote terrassen met uitzicht op de oefenweide en de piste. "
+"Verder vindt u er alles wat u van een onvergetelijke vakantie mag "
+"verwachten.\n"
+"chalet Op 50 meter van chalet le Bouquetin bevindt zich de nieuwe skilift "
+"die toegang biedt tot het skigebied van Tignes – Val d`Isère, bekend als "
+"Espace Killy. ‘Espace Killy’ is een van de meest uitgestrekte ski- en "
+"snowboardgebieden ter wereld. Het gebied is sneeuwzeker, iets wat in deze "
+"tijd niet overal meer vanzelfsprekend is. Met het verbinden van Tignes en "
+"Val d’Isere biedt dit gebied 300 km aan geprepareerde pistes, 23 groene, 67 "
+"blauwe, 40 rode en 29 zwarte pistes. "
+msgstr ""
+"Chalet le Bouquetin est un confortable chalet chic situé sur la pente sud-"
+"ouest juste au-dessus du village de Tignes Les Brévières, avec vue "
+"imprenable sur les montagnes environnantes et le lac Brevieres. Tignes-les-"
+"Brévières Savoy est un petit village traditionnel, le centre est à environ "
+"200 mètres. Ici vous trouverez des restaurants authentiques savoyards, les "
+"pubs locaux, un bar hollandais (avec Internet sans fil gratuit), une école "
+"de ski, les guichets automatiques, location de skis, un bureau de poste "
+"(avec WiFi gratuit à Internet) et de grandes terrasses donnant sur le champ "
+"de pratique et de la pente. Vous trouverez également tout ce que vous "
+"attendez d’un séjour inoubliable.\n"
+"\n"
+"Chalet\n"
+"\n"
+"A 50 mètres du chalet le Bouquetin est le nouveau téléski qui donne accès à "
+"la station de ski de Tignes – Val d’Isère, connu comme l’Espace Killy. "
+"Espace Killy, l’un des plus grands domaines skiables et les zones de "
+"snowboard dans le monde. Tignes est un endroit où vous trouverez tout le "
+"temps de la neige, ce qui n’est pas le cas partout! En reliant Tignes et Val "
+"d’Isère ce domaine offre 300 km de pistes damées, 23 vertes, 67 bleues, 40 "
+"rouges et 29 pistes noires. "
+
+#: index.php:10
+msgid "Welkom - Chalet le Bouquetin"
+msgstr "Bienvenue - Chalet le Bouquetin"
+
+#: index.php:42
+msgid "Skigebied"
+msgstr ""
+
+#: index.php:43
+msgid "Beschikbaarheid"
+msgstr "Disponibilité"
+
+#: index.php:44
+msgid "Prijzen"
+msgstr "prix"
+
+#: index.php:45
+msgid "Online boeken"
+msgstr "réservation en ligne"
+
+#: index.php:46
+msgid "Foto's"
+msgstr "Photos"
+
+#: index.php:47
+msgid "Contact"
+msgstr "Contact"
+
+#: index.php:54
+msgid "Registreer"
+msgstr "Enregistrer"
+
+#: index.php:55
+msgid "Login"
+msgstr "Se connecter"
+
+#: index.php:147
+msgid "Weersverwachting - Tignes"
+msgstr "Prévisions météo - Tignes"
+
+#: onlineboeken.php:139
+#, fuzzy
+msgid "Totaal aantal bezoekers onder de 18 jaar?"
+msgstr "Le nombre de visiteurs moins de 18 ans?"
+
+#: onlineboeken.php:159
+msgid "Totaal aantal bezoekers onder de 13 jaar? (i.v.m toeristenbelasting) "
+msgstr "Le nombre de visiteurs moins de 13 ans?"
+
+#: onlineboeken.php:181 onlineboeken.php:191
+msgid "Ik ga akkoord met de voorwaarden"
+msgstr "J'ai lu et compris les conditions de location."
+
+#: onlineboeken.php:199
+msgid "Verder >>"
+msgstr "Suivant >>"
+
+#: onlineboeken.php:205
+msgid "Opnieuw"
+msgstr "de nouveau"
+
+#: onlineboekensucces.php:58
+msgid "Bedankt voor uw boeking"
+msgstr "Merci pour la réservation"
+
+#: prijzen.php:14
+msgid "Week"
+msgstr "semaine"
+
+#: prijzen.php:15
+msgid "Aankomst datum"
+msgstr "Date d'arrivée"
+
+#: prijzen.php:16
+msgid "Vertrek datum"
+msgstr "Date de départ"
+
+#: prijzen.php:17
+msgid "Prijs"
+msgstr "Prix"
+
+#: skigebied.php:211
+msgid ""
+"\n"
+"L`Espace Killy is de naam van het beroemde skigebied van Tignes en Val d "
+"`Isère. \n"
+"Het gebied is bijzonder uitgestrekt en heeft een uitzonderlijk groot "
+"hoogteverschil van 1550 meter tot 3460 meter. \n"
+"De 158 afdalingen worden ontsloten door 90 skiliften. \n"
+"Er zijn 29 zwarte afdalingen, 40 rode afdalingen, 67 blauwe afdalingen 23 "
+"groene, eenvoudige afdalingen en 44 kilometer loipen. \n"
+"Daarnaast zijn er 2 gletsjer pistes, 6 slalom stadions, 2 half pipes, 2 "
+"snowparks en 1 gliss`park, waar u de beginselen van freestyle- skiën kunt "
+"leren. Gevorderden zullen onder de indruk raken van de talrijke zwarte "
+"pistes en off-piste mogelijkheden. \n"
+"De face op de Roche de Bellevarde is een zwarte piste die begint op de "
+"bergtop ( 2827 meter) en een kilometer lager eindigt in Val d`Isère. \n"
+"Het is een geweldig skigebied voor freeriders die lekker off-piste in de "
+"natuur willen skiën. \n"
+"Beginners en liefhebbers van relaxte tochtjes komen op de lange en brede "
+"blauwe pistes ook ruim aan hun trekken. \n"
+"Met de sneeuwzekerheid zit het ook goed. Het skiseizoen begint in Tignes al "
+"eind september en eindigt na de eerste week in mei. \n"
+"Skiën met Pasen of in de meivakantie? Het kan in Tignes. \n"
+"Naast skiën en snowboarden kunt u in Tignes ook ijs duiken, schaatsen, "
+"paragliden, sportklimmen, rijden met de hondenslee, sneeuwscooter tochten "
+"maken, ijs karten, snowbiken en heliskiën. \n"
+"Dit is allemaal te bereiken met de skilift op 50 meter van Chalet le "
+"Bouquetin. Na een dag op de pistes zijn er volop après-ski mogelijkheden.\n"
+msgstr ""
+
+#: skigebied.php:232
+msgid ""
+" \n"
+"Het dorpje Tignes lag vroeger in de vallei van de Isère, iets lager dan Val "
+"d`Isère. \n"
+"Na de 2e wereldoorlog werd in de Isère een hydro-elektrische stuwdam "
+"aangelegd. \n"
+"Door het ontstane stuwmeer, het Lac du Chevril, zou het oude dorpje Tignes "
+"onder water komen te liggen. \n"
+"De kerk werd verhuisd naar Tignes-les Boisses en het dorp liep uiteindelijk "
+"onder in 1952. \n"
+"Om de 10 jaar laat EDF het meer voor inspectie- en onderhoudswerkzaamheden "
+"aan de dam leeglopen en worden de resten van het oude Tignes nog zichtbaar.\n"
+"Tegenwoordig bestaat Tignes uit 4 dorpjes. Onderaan de stuwdam aan een meer "
+"ligt Les Brévières, een charmant pittoresk savoyaards dorp (1550 m). \n"
+"Daarboven ligt Les Boisses (1800 m). De andere 2 zijn de modernste dorpen "
+"van Tignes en liggen een stuk hoger, Le Lac en Val Claret (2100 m). \n"
+msgstr ""
+
+#: voorwaardenNL.php:14
+msgid "#"
+msgstr "#"
+
+#: voorwaardenNL.php:15
+msgid "Huurvoorwaarden"
+msgstr "Termes et conditions"
+
+#: voorwaardenNL.php:20
+msgid ""
+"Het chalet: Chalet Le Bouquetin wordt aangeboden voor vakantieverhuur, onder "
+"voorbehoud van bevestiging door de eigenaar, aan de huurder (de gast)."
+msgstr ""
+"Propriété: La location de la propriété ‘Le chalet Le Bouquetin’ n’est "
+"accordé aux vacanciers (clients) qu’après confirmation de la part du "
+"propriétaire."
+
+#: voorwaardenNL.php:21
+msgid ""
+"Overeenkomst: De overeenkomst is tussen de eigenaar van Chalet le Bouquetin "
+"en de gast en komt tot stand na ontvangst van de boekingsbevestiging en zal "
+"worden onderworpen aan alle boekings/huurvoorwaarden.\t"
+msgstr ""
+"Contrat: La signature du contrat se fait entre le propriétaire et le client. "
+"Le contrat entre en application après réception de la confirmation et sera "
+"soumis à toutes les conditions de réservation."
+
+#: voorwaardenNL.php:22
+msgid ""
+"Reservering: De boekingen voor het chalet worden gemaakt door het invullen "
+"van het boekingsformulier op de website (www.chaletlebouquetin.com)"
+msgstr ""
+"Réservation: Les réservations se font en complétant la fiche de réservation "
+"disponible sur le site internet  (www.chaletlebouquetin.com)."
+
+#: voorwaardenNL.php:23
+msgid ""
+"Aanbetaling: Op het moment van boeking is een niet terug te vorderen bedrag "
+"van 25% van de totale huursom verschuldigd.\t"
+msgstr ""
+"Caution de réservation: Une caution non remboursable de 25% du montant total "
+"du loyer doit être déposée au moment de la réservation."
+
+#: voorwaardenNL.php:24
+msgid ""
+"Restbedrag:Het restbedrag van de huur moet worden betaald niet minder dan 8 "
+"weken voor aanvang van de huurperiode. Niet betaling van het saldo op of "
+"voor de vervaldatum zal worden beschouwd als een opzegging van het contract "
+"door de klant. Voor reserveringen die minder dan 8 weken voor aanvang van de "
+"huurperiode zijn gedaan is het volledige bedrag verschuldigd."
+msgstr ""
+"Solde de la location: Le solde de la location doit être payé au moins 8 "
+"semaines avant le début de la location. Le non-paiement du solde au plus "
+"tard la date d’échéance peut être interprétée comme une résiliation du "
+"contrat par le client. Pour les réservations effectuées moins de 8 semaines "
+"avant le début de la location de la totalité du montant est payable."
+
+#: voorwaardenNL.php:25
+msgid ""
+"Borg:Eenen waarborgsom van 400 is verschuldigd, te betalen via een bank "
+"overschrijving. De borg is ter dekking van eventuele schade aan de woning of "
+"de inhoud ervan. De eigenaar zal de waarborgsom binnen 2 weken na terugkeer "
+"retourneren"
+msgstr ""
+"Caution de sécurité: Une caution de 400€ est requise pour couvrir "
+"d’éventuels dommages causés à la propriété et/ou á son contenu. Cette "
+"caution doit être déposée par transfert bancaire et sera retournée par le "
+"propriétaire dans un délai maximal de 2 semaines après la fin du séjour."
+
+#: voorwaardenNL.php:26
+msgid ""
+"Inhouding van Borg:De eigenaar behoudt zich het recht voor om een deel van "
+"de borg in te houden om extra schoonmaak kosten te dekken, indien de "
+"klanthet pand in een onaanvaardbare toestand achter laat. Ook bij breuk of "
+"schade aangericht aan het chalet en of haar inhoud zullen de kosten "
+"redelijkerwijze worden doorberekend aan de klant."
+msgstr ""
+"Rétention de la caution:  Dans le cas où le client laisserait la propriété "
+"dans un état inacceptable, les propriétaires se réservent le droit retenir "
+"une partie de la caution pour couvrir les frais de nettoyage supplémentaire. "
+"Le montant de réparation associé à tout dommage ou casse sera également "
+"retenu de la caution."
+
+#: voorwaardenNL.php:27
+msgid ""
+"Huurperiode:De huurperiode begint, tenzij anders is overeengekomen, om 16 "
+"uur op de dag van aankomst en eindigt om 10 uur op de dag van vertrek. "
+"Sleutels moeten worden teruggeven aan de beheerder voor vertrek."
+msgstr ""
+"Période de location: Sauf s’il en a été convenu autrement, le chalet est "
+"disponible à partir de 16h le premier jour de location et doit être libéré "
+"avant 10h le jour du départ. Les clefs doivent être rendues au gérant avant "
+"le départ."
+
+#: voorwaardenNL.php:28
+msgid ""
+"Aantal personen:Het aantal te verblijven personen in de woning mag niet meer "
+"zijn dan het aantal dat op het boekingsformulier is aangegeven. In ieder "
+"geval mag het maximale aantal personen in de woning niet meer bedragen dan "
+"11. De beheerder behoudt zich het recht voor om de toegang te weigeren tot "
+"het chalet van het hele gezelschap indien deze regel niet nageleefd wordt "
+"(zonder geldelijke restitutie)\t"
+msgstr ""
+"Nombre d’occupant: Le nombre personnes résidant dans la propriété devrait "
+"être celui déclaré sur le formulaire de réservation. Dans tous les cas, le "
+"nombre maximum d’occupants de la propriété ne doit pas être supérieur à 11. "
+"Le gestionnaire des réserves le droit de refuser l’entrée à tous les "
+"occupants si cette condition n’est pas respectée. (Sans remboursement)"
+
+#: voorwaardenNL.php:29
+msgid ""
+"Zorg voor het pand:De klant zal op zorgvuldige wijze omgaan met het chalet , "
+"de meubels, verlichting, apparatuur en accessoires. De gebruikers zullen het "
+"chalet en zijn inhoud in dezelfde goed verzorgde staat achter laten als "
+"waarin zij het bij aankomst aantroffen."
+msgstr ""
+"Soin de la propriété: Le client doit prendre raisonnablement soin de la "
+"propriété et de son mobilier, luminaires, accessoires. Les occupants doivent "
+"laisser la  propriété et son contenu dans le même état de propreté de "
+"fonctionnement qu’ils l’ont trouvé au début."
+
+#: voorwaardenNL.php:30
+msgid ""
+"Klachten:De klant zal onverwijld verslag uitbrengen aan de beheerder of zijn "
+"vertegenwoordiger over alle gebreken in de woning of over uitvallen van "
+"apparatuur. Regelingen voor de reparatie of vervanging zullen zo snel "
+"mogelijk worden gemaakt.\t"
+msgstr ""
+"Plaintes: Le client peut sans attendre porter à l’attention du gérant ou "
+"d’un responsable tout défaut dans la maison, panne d’un équipement, etc. Des "
+"mesures pour la réparation ou le remplacement seront prises aussi vite que "
+"possible."
+
+#: voorwaardenNL.php:31
+msgid ""
+"Huisdieren:Huisdieren zijn niet toegestaan in het chalet of op het terrein "
+"rond het chalet."
+msgstr ""
+"Animaux de compagnie: Les animaux de compagnies ne sont pas autorisés dans "
+"le chalet, ni dans le jardin."
+
+#: voorwaardenNL.php:32
+msgid ""
+"Rookbeleid:Er geldt een strikt rookverbod in het chalet. Rokers worden "
+"geacht te roken buiten het chalet.\t"
+msgstr ""
+"Politique de fumer: Il est strictement interdit de fumer dans le Chalet. Les "
+"fumeurs sont tenus de fumer à l’extérieur."
+
+#: voorwaardenNL.php:33
+msgid ""
+"Aansprakelijkheid:De eigenaar is niet aansprakelijk tegenover de klant of "
+"derden voor ongevallen, schade, verlies, letsel, kosten of ongemakken, die "
+"kunnen worden geleden, ontstaan ??uit of op enigerlei wijze verbonden worden "
+"met de huur van het chalet. De eigenaar is niet aansprakelijk voor een "
+"eventueel tijdelijk defect of onderbreking in de levering van openbare "
+"diensten aan de woning, noch ten aanzien van apparatuur, installaties, "
+"machines of apparaten in de woning of tuin."
+msgstr ""
+"Responsabilité: Le propriétaire n’assure aucune responsabilité dans le cas "
+"d’accident, dommage, perte, blessure, frais additionnels ou inconvénients, "
+"subis par le client ou un tiers qui ne sont en aucune façon liés à la "
+"location de la propriété.Le propriétaire ne sera également pas tenue "
+"responsable d’un défaut ou d’interruption provisoire de la fourniture de "
+"services publics à la propriété."
+
+#: voorwaardenNL.php:34
+msgid ""
+"Recht van Toegang:De beheerder of zijn vertegenwoordiger hebben het recht "
+"van toegang tot het chalet op redelijke tijden voor o.a. het doen van "
+"inspectie, het uitvoeren van noodzakelijke reparaties of onderhoud en het "
+"verzamelen of deponeren van artikelen behorende bij de uitrusting van het "
+"chalet."
+msgstr ""
+"Droit d’entrée: Le gérant se réserve le droit d’entrer dans la propriété aux "
+"heures raisonnables pour des raisons diverses telles que une inspection, des "
+"réparations ou maintenance, ou encore pour déposer des objets ou équipement "
+"appartenant à la propriété."
+
+#, fuzzy
+#~ msgid "Chalet Le Bouquetin"
+#~ msgstr "Bienvenue - Chalet le Bouquetin"
+
+#~ msgid "Welkom"
+#~ msgstr "Bienvenue"
+
+#~ msgid "Kies uw taal"
+#~ msgstr "Choisissez la langue"
+
+#~ msgid "Welkom op de website"
+#~ msgstr "Bienvenue sur le site"
